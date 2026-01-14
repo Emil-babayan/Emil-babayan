@@ -125,6 +125,7 @@
 ## 🗎 Contributions
   <p><a href="https://henryh9n.hashnode.dev/21-days">Teach yourself programming in 10 years (Armenian version)</a> by
     <a href="https://www.norvig.com/">Peter Norvig</a></p>
+    <p> <a href="https://medium.com/@emil.babayan24/the-year-of-linux-desktop-f5c789957b11">The Year of Linux desktop</a></p>
   <h2>👥 Socials</h2>
   <a href="https://www.linkedin.com/in/emil-babayan/"><img src="./img/net/in.png" alt="LinkedIn" title="LinkedIn"></a><a href="https://bsky.app/profile/emilsoft.bsky.social"><img src="./img/net/bsky.png" alt="BlueSky" title="BlueSky"></a><a href="https://www.facebook.com/3m1ls0ft"><img src="./img/net/fb.png" alt="Facebook" title="Facebook"></a><a href="https://www.youtube.com/@emilsoft"><img src="./img/net/yt.png" alt="YouTube" title="YouTube"></a>
 
