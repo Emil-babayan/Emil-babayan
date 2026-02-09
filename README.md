@@ -92,7 +92,7 @@
 
   ---
 
-## 🚀 Personal projects
+## 🚀 Personal projects (Click ☝️ on image to follow the link)
 
 <a href="https://qrc.am/"><img width="100%" src="./img/QRC.avif" alt="QRC.am"></a>
   <p>Create styled and colorized QR codes for anything</p>
@@ -111,8 +111,7 @@
   ---
 
   <a href=https://vscodethemes.com/e/EmilBabayan.oxbat-dark/oxbat-dark"><img width="100%" src="./img/OX.avif" alt="Oxbat Dark"></a>
-  <p>Goated dark-greenish yet colorful VS Code theme for JS/TS devs. Colors function params differently than other
-    variables.</p>
+  <p>Goated dark-greenish yet colorful VS Code theme for JS/TS devs. Colorizes function params differently than other variables.</p>
 
   ---
 
