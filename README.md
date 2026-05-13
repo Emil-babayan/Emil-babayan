@@ -110,7 +110,7 @@
 
   ---
 
-  <a href=https://vscodethemes.com/e/EmilBabayan.oxbat-dark/oxbat-dark"><img width="100%" src="./img/OX.avif" alt="Oxbat Dark"></a>
+  <a href="https://vscodethemes.com/e/EmilBabayan.oxbat-dark/oxbat-dark"><img width="100%" src="./img/OX.avif" alt="Oxbat Dark"></a>
   <p>Goated dark-greenish yet colorful VS Code theme for JS/TS devs. Colorizes function params differently than other variables.</p>
 
   ---
