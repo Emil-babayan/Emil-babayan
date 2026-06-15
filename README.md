@@ -99,6 +99,11 @@
  
   ---
 
+<a href="https://stasoft.io/"><img width="100%" src="./img/sta.avif" alt="STA Soft"></a>
+  <p>Landing page for STA Soft</p>
+ 
+---
+
   <a href="https://cube-archive.netlify.app/"><img width="100%" src="./img/CUBE.avif" alt="Cube, the School"></a>
   <p>The school is no more, but I built both front and back for the website, so let it be</p>
 
